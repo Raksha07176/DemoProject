@@ -1,4 +1,4 @@
-package com.devacademy.HMS.service;
+/*package com.devacademy.HMS.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.SimpleMailMessage;
@@ -22,4 +22,4 @@ public class EmailService {
 	public void sendEmail(SimpleMailMessage email) {
 		mailSender.send(email);
 	}
-}
+} */
